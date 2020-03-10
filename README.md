@@ -15,8 +15,7 @@ You will learn:
   - How Big — determining how big is the feature or project with less effort
   - How Long — determining how long it would take to deliver a project or feature
   - How Much — determining what will fit into a fixed delivery time (e.g. sprint, release, quarter)
-  - How to use Continuous forecasting to see as early as possible if the reality is going in the same direction as our forecast. How to use 
-Continuous forecasting to see as early as possible if the reality is going in the same direction as our forecast.
+  - How to use Continuous forecasting to see as early as possible if the reality is going in the same direction as our forecast.
 
 Forecasting using data will benefit people in the following roles:
 - Product Managers
