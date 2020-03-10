@@ -1,3 +1,5 @@
+# PROBABALISTIC PLANNING
+
 Agile teams commonly apply 'yesterday's weather' to estimate delivery dates and required resources. Unfortunately, the overall success of this approach is mediocre, at best. Can we do better? Yes, we can!
 
 In this hands-on workshop you will learn practical probabilistic forecasting techniques applied to any flavour of Agile software development for better outcomes. Probabilistic Forecasting uses historical data from the actual delivery history of a team and combines it with probabilistic techniques & Monte Carlo simulations to greatly enhance the reliability of your team's forecasts.
