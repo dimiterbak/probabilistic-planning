@@ -1,4 +1,4 @@
-# PROBABALISTIC PLANNING
+# PROBABILISTIC PLANNING
 
 Agile teams commonly apply 'yesterday's weather' to forecast delivery dates and required resources. Unfortunately, the overall success of this approach is mediocre, at best. Can we do better? Yes, we can!
 
